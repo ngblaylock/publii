@@ -1,0 +1,41 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "nbmedia-publii",
+    "description": "",
+    "home_page_url": "https://ngblaylock.github.io/publii",
+    "feed_url": "https://ngblaylock.github.io/publii/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Nathan Blaylock"
+    },
+    "items": [
+        {
+            "id": "https://ngblaylock.github.io/publii/heyo.html",
+            "url": "https://ngblaylock.github.io/publii/heyo.html",
+            "title": "Heyo",
+            "summary": "This is the second post. I think that it is swell.",
+            "content_html": "<p>This is the second post. I think that it is <strong>swell</strong>.</p>\n",
+            "author": {
+                "name": "Nathan Blaylock"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-10-10T21:08:48-06:00",
+            "date_modified": "2020-10-10T21:08:58-06:00"
+        },
+        {
+            "id": "https://ngblaylock.github.io/publii/first-blog-title.html",
+            "url": "https://ngblaylock.github.io/publii/first-blog-title.html",
+            "title": "First Blog Title",
+            "summary": "Heyo! This is the very first time that this will be used. I am excited to try it out.",
+            "content_html": "<p>Heyo! This is the very first time that this will be used. I am excited to try it out.</p>",
+            "author": {
+                "name": "Nathan Blaylock"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-10-10T21:07:33-06:00",
+            "date_modified": "2020-10-10T21:07:33-06:00"
+        }
+    ]
+}

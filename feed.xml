@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>nbmedia-publii</title>
+    <link href="https://ngblaylock.github.io/publii/feed.xml" rel="self" />
+    <link href="https://ngblaylock.github.io/publii" />
+    <updated>2020-10-10T21:08:58-06:00</updated>
+    <author>
+        <name>Nathan Blaylock</name>
+    </author>
+    <id>https://ngblaylock.github.io/publii</id>
+
+    <entry>
+        <title>Heyo</title>
+        <author>
+            <name>Nathan Blaylock</name>
+        </author>
+        <link href="https://ngblaylock.github.io/publii/heyo.html"/>
+        <id>https://ngblaylock.github.io/publii/heyo.html</id>
+
+        <updated>2020-10-10T21:08:58-06:00</updated>
+            <summary>
+                <![CDATA[
+                    This is the second post. I think that it is swell.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is the second post. I think that it is <strong>swell</strong>.</p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>First Blog Title</title>
+        <author>
+            <name>Nathan Blaylock</name>
+        </author>
+        <link href="https://ngblaylock.github.io/publii/first-blog-title.html"/>
+        <id>https://ngblaylock.github.io/publii/first-blog-title.html</id>
+
+        <updated>2020-10-10T21:07:33-06:00</updated>
+            <summary>
+                <![CDATA[
+                    Heyo! This is the very first time that this will be used. I am excited to try it out.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Heyo! This is the very first time that this will be used. I am excited to try it out.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
